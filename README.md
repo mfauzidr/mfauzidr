@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [Mochammad Fauzi Dwi Rusdiansyah]!
+# Hi there 👋, I'm Mochammad Fauzi Dwi Rusdiansyah!
 
 [![GitHub followers](https://img.shields.io/github/followers/mfauzidr?label=Follow&style=social)](https://github.com/mfauzidr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mfdr-fauzi97/)
 
 ---
 
@@ -20,39 +20,45 @@ I'm a [Fullstack Web Developer] with a passion for development. I specialize in 
 
 ## 🛠️ Tech Stack
 
-![Your Favorite Tech Stack](https://img.shields.io/badge/-Tech%20Stack-05122A?style=flat&logo=appveyor)  
-![Language 1](https://img.shields.io/badge/-Language1-05122A?style=flat&logo=Language1)
-![Language 2](https://img.shields.io/badge/-Language2-05122A?style=flat&logo=Language2)
-![Tool 1](https://img.shields.io/badge/-Tool1-05122A?style=flat&logo=Tool1)
-![Tool 2](https://img.shields.io/badge/-Tool2-05122A?style=flat&logo=Tool2)
-![Framework 1](https://img.shields.io/badge/-Framework1-05122A?style=flat&logo=Framework1)
-![Framework 2](https://img.shields.io/badge/-Framework2-05122A?style=flat&logo=Framework2)
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
+![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,issues&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfauzidr&show_icons=true&hide=contribs,issues&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfauzidr&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Let's Connect!
 
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinprofile)
-- [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-- [![Dev.to](https://img.shields.io/badge/-Dev.to-05122A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourdevtoprofile)
-- [![Blog](https://img.shields.io/badge/-Blog-05122A?style=flat&logo=wordpress&logoColor=white)](https://yourblog.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mfdr-fauzi97/)
 
 ---
 
 ## 💼 Featured Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
-**Description:** A brief description of your project, its purpose, and the technologies used.  
-**Tech Stack:** [Tech 1], [Tech 2], [Tech 3]  
-[![Repo](https://img.shields.io/badge/-Repository-05122A?style=flat&logo=github)](https://github.com/yourusername/project1) [![Live Demo](https://img.shields.io/badge/-Live%20Demo-05122A?style=flat&logo=internet-explorer&logoColor=white)](https://yourprojectdemo.com)
+### [Coffee Shop]
+**Description:** Coffee Shop App is a simple application for managing a coffee shop. This application allows users to register accounts, log in, add products and carry out transactions like a coffee shop in general. 
+**Tech Stack:** [Typescript], [NodeJs], [ExpressJs], [PostgreSQL], [Tailwind], [React], [Redux]
+[![Repo](https://img.shields.io/badge/-Repository-05122A?style=flat&logo=github)]
+Front End: (https://github.com/yourusername/project1) 
+Back End: (https://github.com/yourusername/project1) 
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-05122A?style=flat&logo=internet-explorer&logoColor=white)](https://yourprojectdemo.com)
 
 ### [Project 2 Name](https://github.com/yourusername/project2)
 **Description:** A brief description of your project, its purpose, and the technologies used.  
